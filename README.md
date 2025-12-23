@@ -1,2 +1,2 @@
-# Hindustan-Unilever-Limited
+# HUL
 Shared Project - Managed servers on AWS platform
